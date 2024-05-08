@@ -1,0 +1,30 @@
+{
+  "id": "4329384",
+  "name": "九州",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18175499",
+      "name": "单箭头,长箭头,右",
+      "font_class": "arrow-right",
+      "unicode": "ea67",
+      "unicode_decimal": 60007
+    },
+    {
+      "icon_id": "1726201",
+      "name": "长箭头",
+      "font_class": "straight",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "38167004",
+      "name": "中长箭头",
+      "font_class": "straight-middle",
+      "unicode": "ea69",
+      "unicode_decimal": 60009
+    }
+  ]
+}
